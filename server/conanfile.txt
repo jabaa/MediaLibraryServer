@@ -1,0 +1,7 @@
+[requires]
+Poco/1.9.0@jabaa/testing
+boost/1.69.0@conan/stable
+fmt/5.3.0@bincrafters/stable
+
+[generators]
+cmake
